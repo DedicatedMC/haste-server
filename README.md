@@ -1,3 +1,5 @@
+# DedicatedMC no longer maintains this branch of Haste, our current hastebin is on a private repo.
+
 # Haste
 
 Haste is an open-source pastebin software written in node.js, which is easily
